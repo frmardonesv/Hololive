@@ -59,5 +59,17 @@ p{
 #Contenido {
     margin: 0;
     color: blueviolet;
+<<<<<<< HEAD
 }           
 
+=======
+}
+
+#footer{
+    background-color: #33A;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 0.3em;
+}
+>>>>>>> footer
