@@ -53,3 +53,11 @@ p{
     margin: 0;
     color: blueviolet;
 }
+
+#footer{
+    background-color: #33A;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 0.3em;
+}
