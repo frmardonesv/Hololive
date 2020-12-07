@@ -1,9 +1,10 @@
 body{
     text-align: center;
-    color: blueviolet;
+    color: black;
     font-size: 25px;
     padding: 0;
     margin: 0;
+    background-color: cyan;
 }
 
 p{
@@ -47,9 +48,15 @@ p{
     padding: 0;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: white;
 }
 
 #Contenido {
     margin: 0;
     color: blueviolet;
+}           
+
+#logo{
+    width: 80px;
+    vertical-align: middle;
 }
