@@ -16,5 +16,5 @@ Y como recordatorio.
 
 ## Adiós
 
-## uwu owo
+## uwu owo ono
 
