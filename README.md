@@ -1,2 +1,2 @@
-# Hololive
+# HololiveStreamsS
 Git hololive
